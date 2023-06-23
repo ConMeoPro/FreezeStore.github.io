@@ -48,4 +48,3 @@ button.addEventListener('mouseleave', function() {
   clearInterval(intervalId);
   button.classList.remove('glow');
 });
-
